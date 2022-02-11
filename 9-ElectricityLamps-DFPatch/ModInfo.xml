@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="ElectricityLamps-DFPatch" />
+		<!-- Vanilla Version of UBBI -->
+		<Description value="A patch to make ocbMaurice's lovely ElectricityLamps mod play nice with Darkness Falls" />
+		<Author value="grumpybeard" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

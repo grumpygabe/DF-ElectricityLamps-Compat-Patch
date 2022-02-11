@@ -1,0 +1,10 @@
+<configs>
+
+<!-- DF patch for electricty lamps -->
+	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @value='1' and @level='2,5']/@tags">,ocbLanternLamp</append>
+	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @value='1' and @level='5']/@tags">,ocbRoadBarricade</append>
+	<append xpath="/progression/perks/perk[@name='perkElectricBasics']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @value='1' and @level='1,2']/@tags">,ocbSignLampVariantHelper,ocbDeskLampVariantHelper,ocbSmallCeilLampVariantHelper,ocbSmallWallLampVariantHelper,ocbLanternLamp</append>
+	<append xpath="/progression/perks/perk[@name='perkElectricBasics']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @value='1' and @level='2']/@tags">,ocbMediumCeilLampVariantHelper,ocbMediumWallLampVariantHelper,ocbSpecialCeilLampVariantHelper,ocbSpecialGroundLampVariantHelper,ocbRoadBarricade</append>
+
+
+</configs>

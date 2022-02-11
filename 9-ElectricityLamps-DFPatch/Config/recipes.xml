@@ -1,0 +1,5 @@
+<configs>
+  <!-- remove the DF light block in favor of the better ElectricityLamps mod-->
+  <remove xpath="/recipes/recipe[@name='playerLightBlockVariantHelper']"/>
+
+</configs>

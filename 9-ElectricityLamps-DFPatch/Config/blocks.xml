@@ -1,0 +1,8 @@
+<configs>
+  <!-- ocbElectricityLamps fix -->
+    <set xpath="/blocks/block[@name='ocbLanternLamp']/property[@name='UnlockedBy']/@value">perkAdvancedEngineering</set>
+    <set xpath="/blocks/block[@name='ocbRoadBarricade']/property[@name='UnlockedBy']/@value">perkAdvancedEngineering</set>
+  
+    <!-- remove the DF light block in favor of the better ElectricityLamps mod-->
+    <remove xpath="/blocks/block[@name='playerLightBlockVariantHelper']"/>
+</configs>

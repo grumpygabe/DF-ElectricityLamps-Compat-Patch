@@ -1,6 +1,9 @@
 # DF-ElectricityLamps-Compat-Patch
 A compatibility patch for Darkness Falls
 
+⚠️**WORD OF WARNING**:warning:  While this one tested fine in single player, I've been getting *intense* framerate issues on multiplayer as soon as one of these lights gets dropped. 
+
+
 # Requirements
 [Darkness Falls](https://dev.azure.com/KhaineUK/_git/DarknessFallsA20) and ocbMaurice's wonderful [ElectricityLamps](https://github.com/OCB7D2D/ElectricityLamps) mod.
 
